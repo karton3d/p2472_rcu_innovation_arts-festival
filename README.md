@@ -1,2 +1,1 @@
-# p2472_rcu_innovation_arts-festival
- 
+# camera_kit_demo
